@@ -1,0 +1,6 @@
+node_modules
+.env
+.eslintrc.json
+docker-compose.yml
+.editorconfig
+.babelrc
